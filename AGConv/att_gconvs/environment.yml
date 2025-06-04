@@ -1,0 +1,42 @@
+name: torch
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - jupyter
+  - ipykernel
+  - ipywidgets
+  - notebook
+  - qtconsole
+  - pytorch
+  - torchvision
+  - pillow
+  - seaborn
+  - traitlets
+  - jupyterlab
+  - widgetsnbextension
+  - nbconvert
+  - nbformat
+  - pip
+  - setuptools
+  - wheel
+  - pyqt
+  - tornado
+  - cffi
+  - jinja2
+  - jsonschema
+  - zipp
+  - pygments
+  - prompt_toolkit
+  - python-dateutil
+  - six
+  - certifi
+  - markupsafe
+  - packaging
